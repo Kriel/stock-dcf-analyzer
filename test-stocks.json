@@ -1,0 +1,50 @@
+[
+  {
+    "Symbol": "AMD",
+    "Name": "Advanced Micro Devices, Inc.",
+    "LastSale": 15,
+    "MarketCap": 14540159820,
+    "ADR TSO": "n/a",
+    "IPOyear": "n/a",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "Summary Quote": "https://www.nasdaq.com/symbol/amd",
+    "": ""
+  },
+  {
+    "Symbol": "INTC",
+    "Name": "Intel Corporation",
+    "LastSale": 49.47,
+    "MarketCap": 230530200000,
+    "ADR TSO": "n/a",
+    "IPOyear": "n/a",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "Summary Quote": "https://www.nasdaq.com/symbol/intc",
+    "": ""
+  },
+  {
+    "Symbol": "MSFT",
+    "Name": "Microsoft Corporation",
+    "LastSale": 99.05,
+    "MarketCap": 761020712672.15,
+    "ADR TSO": "n/a",
+    "IPOyear": 1986,
+    "Sector": "Technology",
+    "Industry": "Computer Software: Prepackaged Software",
+    "Summary Quote": "https://www.nasdaq.com/symbol/msft",
+    "": ""
+  },
+  {
+    "Symbol": "NVDA",
+    "Name": "NVIDIA Corporation",
+    "LastSale": 236.84,
+    "MarketCap": 143761880000,
+    "ADR TSO": "n/a",
+    "IPOyear": 1999,
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "Summary Quote": "https://www.nasdaq.com/symbol/nvda",
+    "": ""
+  }
+]

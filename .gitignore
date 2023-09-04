@@ -1,0 +1,18 @@
+# gitignore for Shift4 .NET services
+bin/
+obj/
+*.suo
+*.csproj.user
+*.GhostDoc.xml
+.vs/
+app.config
+Web.config
+Web.Debug.config
+Web.Release.config
+log4net.config
+**/Releases/Latest/
+TestResults/
+GhostDoc for VS2017/
+Visual Studio 2017/
+ConfigsBackup/
+sandbox/
